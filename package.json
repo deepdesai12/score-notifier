@@ -1,0 +1,24 @@
+{
+  "name": "score-notifier",
+  "version": "1.0.0",
+  "description": "A node.js app that notifies you by sending a text, when a major event happens during a specified cricket game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepdesai12/score-notifier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepdesai12/score-notifier/issues"
+  },
+  "homepage": "https://github.com/deepdesai12/score-notifier#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  }
+}
